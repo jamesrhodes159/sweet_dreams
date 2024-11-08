@@ -18,4 +18,4 @@
 	then run pm2 start sweet_dreams_3087.js
 
 That's it now just put your domain url along with /api fragment to sweet dreams mobile app source code then compile your code to run it.
-Note: Php version of your server must be 8.2.* ie 8.2.20
+Note: Php version of your server must be 8.2.* ie 8.2.20 and also composer need to be installed on server.
