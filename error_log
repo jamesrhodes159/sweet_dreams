@@ -1,0 +1,46 @@
+[11-Jun-2024 08:24:29 UTC] PHP Warning:  require(/home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/../google/apiclient-services/autoload.php): Failed to open stream: No such file or directory in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php on line 55
+[11-Jun-2024 08:24:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/../google/apiclient-services/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php(38): composerRequire7ca0dcddc2d6a9c3aa614e8fcfa91d3d('1f87db08236948d...', '/home/server1ap...')
+#1 /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/autoload.php(12): ComposerAutoloaderInit7ca0dcddc2d6a9c3aa614e8fcfa91d3d::getLoader()
+#2 /home/server1appsstagi/public_html/3148/sweet_dreams/artisan(18): require('/home/server1ap...')
+#3 {main}
+  thrown in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php on line 55
+[11-Jun-2024 08:24:42 UTC] PHP Warning:  require(/home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/../google/apiclient-services/autoload.php): Failed to open stream: No such file or directory in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php on line 55
+[11-Jun-2024 08:24:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/../google/apiclient-services/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php(38): composerRequire7ca0dcddc2d6a9c3aa614e8fcfa91d3d('1f87db08236948d...', '/home/server1ap...')
+#1 /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/autoload.php(12): ComposerAutoloaderInit7ca0dcddc2d6a9c3aa614e8fcfa91d3d::getLoader()
+#2 /home/server1appsstagi/public_html/3148/sweet_dreams/artisan(18): require('/home/server1ap...')
+#3 {main}
+  thrown in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php on line 55
+[11-Jun-2024 08:25:03 UTC] PHP Warning:  require(/home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/../google/apiclient-services/autoload.php): Failed to open stream: No such file or directory in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php on line 55
+[11-Jun-2024 08:25:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/../google/apiclient-services/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php(38): composerRequire7ca0dcddc2d6a9c3aa614e8fcfa91d3d('1f87db08236948d...', '/home/server1ap...')
+#1 /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/autoload.php(12): ComposerAutoloaderInit7ca0dcddc2d6a9c3aa614e8fcfa91d3d::getLoader()
+#2 /home/server1appsstagi/public_html/3148/sweet_dreams/artisan(18): require('/home/server1ap...')
+#3 {main}
+  thrown in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php on line 55
+[11-Jun-2024 08:25:25 UTC] PHP Warning:  require(/home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/../google/apiclient-services/autoload.php): Failed to open stream: No such file or directory in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php on line 55
+[11-Jun-2024 08:25:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/../google/apiclient-services/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php(38): composerRequire7ca0dcddc2d6a9c3aa614e8fcfa91d3d('1f87db08236948d...', '/home/server1ap...')
+#1 /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/autoload.php(12): ComposerAutoloaderInit7ca0dcddc2d6a9c3aa614e8fcfa91d3d::getLoader()
+#2 /home/server1appsstagi/public_html/3148/sweet_dreams/artisan(18): require('/home/server1ap...')
+#3 {main}
+  thrown in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/composer/autoload_real.php on line 55
+[12-Jun-2024 07:50:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/nunomaduro/termwind/src/ValueObjects/Styles.php on line 1033
+[12-Jun-2024 07:50:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php on line 1
+[12-Jun-2024 07:52:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/nunomaduro/termwind/src/ValueObjects/Styles.php on line 1033
+[12-Jun-2024 07:52:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php on line 1
+[12-Jun-2024 07:53:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/nunomaduro/termwind/src/ValueObjects/Styles.php on line 1033
+[12-Jun-2024 07:53:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php on line 1
+[12-Jun-2024 07:54:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/nunomaduro/termwind/src/ValueObjects/Styles.php on line 1033
+[12-Jun-2024 07:54:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php on line 1
+[12-Jun-2024 07:56:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/nunomaduro/termwind/src/ValueObjects/Styles.php on line 1033
+[12-Jun-2024 07:56:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php on line 1
+[19-Jun-2024 08:28:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/nunomaduro/termwind/src/ValueObjects/Styles.php on line 876
+[19-Jun-2024 08:28:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php on line 1
+[15-Aug-2024 11:57:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/nunomaduro/termwind/src/ValueObjects/Styles.php on line 876
+[15-Aug-2024 11:57:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/server1appsstagi/public_html/3148/sweet_dreams/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php on line 1
